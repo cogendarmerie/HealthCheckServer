@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Cogendar38\\HealthcheckServer\\": "src/"
+            "Cogendar38\\HealthCheckServer\\": "src/"
         }
     },
     "authors": [

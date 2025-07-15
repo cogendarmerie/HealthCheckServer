@@ -1,0 +1,4 @@
+status:
+  methods: GET
+  path: /status
+  controller: Cogendar38\HealthcheckServer\Controller\StatusController::status
