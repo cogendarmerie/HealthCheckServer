@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cogendar38",
+      "email": "contact@seventeeninfo.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Cogendar38\\HealthCheckServer\\": "src/"
+    }
+  }
+}
